@@ -12,19 +12,19 @@ const ContactSection = () => {
   objectFit="cover"
   alt="Background Image"
 />
-      <div className='  bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary-900 to-transparent rounded-full h-80 w-80 z-0 blur-lg absolute top-3/4 -left-4 transform -translate-x-1/2 -translate-1/2'></div>
+      <div className='bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary-900 to-transparent rounded-full h-80 w-80 z-0 blur-lg absolute top-3/4 -left-4 transform -translate-x-1/2 -translate-1/2'></div>
       <div className='z-10 ml-16 shadow-lg rounded-2xl bg-gradient-to-br from-pink-400 to-teal-400'>
         <h1 className='text-xl m-4 pl-64 font-bold text-white shadow-lg rounded-2xl bg-gradient-to-br from-pink-400 to-teal-400 my-2' >Lets Connect</h1>
         <br></br>
         <p className='text-blue p-2 m-2  gap-2 shadow-lg rounded-2xl bg-gradient-to-br from-pink-500 to-teal-500' >
-        Got a joke that's too good not to share? Want to give us feedback or just say hello? We'd love to hear from you! Whether you’re a joke master, a casual comedian, or just someone who loves to laugh, drop us a line
+        Got a joke that&apos;s too good not to share? Want to give us feedback or just say hello? We&apos;d love to hear from you! Whether you&apos;re a joke master, a casual comedian, or just someone who loves to laugh, drop us a line
        </p><p className='text-blue p-2 m-2    gap-2 shadow-lg rounded-2xl bg-gradient-to-br from-pink-500 to-teal-500'> <b>Submit Your Jokes:</b><br />
 Think you have the perfect punchline? Share your joke with us, and it might get featured! Just email your best jokes to submit@jokeswebsite.com.
 
 <br /><b>Feedback & Suggestions:</b><br />
-If you have any suggestions on how we can make the website better or just want to let us know how much you’ve laughed, send your thoughts to feedback@jokeswebsite.com.
+If you have any suggestions on how we can make the website better or just want to let us know how much you&apos;ve laughed, send your thoughts to feedback@jokeswebsite.com.
 
-We’re always here to make you smile, one joke at a time! 😄
+We&apos;re always here to make you smile, one joke at a time! 😄
         </p>
         <br></br>
         

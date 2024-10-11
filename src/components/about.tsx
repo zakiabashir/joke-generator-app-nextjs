@@ -37,13 +37,13 @@ const AboutSection = () => {
           </h2>
           <br />
           <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl text-black'>
-          Welcome to the world of laughter! Our mission is simple: to spread joy and humor by providing you with a collection of the best jokes around. Whether you're looking to brighten up your day, share a laugh with friends, or just need a little break, we’ve got you covered.
+          Welcome to the world of laughter! Our mission is simple: to spread joy and humor by providing you with a collection of the best jokes around. Whether you&apos;re looking to brighten up your day, share a laugh with friends, or just need a little break, we&apos;ve got you covered.
 
-We believe in the power of a good laugh—it lifts spirits, breaks the ice, and brings people together. From classic jokes that never get old to new ones that are bound to become your favorites, we strive to make sure there's something here for everyone.
+We believe in the power of a good laugh—it lifts spirits, breaks the ice, and brings people together. From classic jokes that never get old to new ones that are bound to become your favorites, we strive to make sure there&apos;s something here for everyone.
 <br /><b>Why Jokes?</b><br />
-In a world that can sometimes feel too serious, we think laughter is one of the best ways to unwind. Humor has the magical ability to make even the toughest days better. And we’re here to remind you that laughter truly is the best medicine.
+In a world that can sometimes feel too serious, we think laughter is one of the best ways to unwind. Humor has the magical ability to make even the toughest days better. And we&apos;re here to remind you that laughter truly is the best medicine.
 
-So, sit back, scroll through, and get ready to laugh. After all, life’s too short to not enjoy a good joke!
+So, sit back, scroll through, and get ready to laugh. After all, life&apos;s too short to not enjoy a good joke!
           </p>
         </div>
       </div>
